@@ -5,7 +5,7 @@ import { TraktTvService } from '@core/services/trakt-tv.service';
 import profileData from '@data/profile.data';
 import { Music } from '@shared/components/music/music'
 import { Watch } from '@shared/components/watch/watch'
-import { MatLinkPreviewModule } from '@angular-material-extensions/link-preview';
+// import { MatLinkPreviewModule } from '@angular-material-extensions/link-preview';
 
 @Component({
   selector: 'edu',
