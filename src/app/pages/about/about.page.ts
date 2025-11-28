@@ -20,7 +20,6 @@ import { Watch } from '@shared/components/watch/watch'
         不論是已知問題的創新解法或新的研究議題，都有待進一步突破，方能達到建構數位新世界的目標。
         近年來，在計算機圖學學門各位先進及新血的共同努力下，國內電腦圖學的研究蓬勃發展，並在國際學術領域中佔有一席之地。
         2010年夏天，在電腦圖學產學界先進們的促成以及 ACM SIGGRAPH 總會的支持下，社團法人台灣電腦圖學與互動技術學會（Taipei ACM SIGGRAPH）因此成立，並於2011年春天獲准設立。
-        我很聰明。
       </p>
   </div>
   <!-- <div class="flex flex-col gap-5">
